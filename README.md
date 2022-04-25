@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinifermo Vinicius Fermo Filho
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend developer
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on development area
 - 📫 How to reach me ... viniciusfilho14@hotmail.com @_viniciusfilho
