@@ -1,3 +1,3 @@
 Hi, my name is Vinicius Fermo Filho and i am Passionate about Java. Learning something different everyday
 
-Agile Development || Java || Spring || Git || PostgresSQL || API´s Restfull ||
+Agile Development || Java || Spring || Git || PostgresSQL || Restfull API´s ||
