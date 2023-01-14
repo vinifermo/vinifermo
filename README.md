@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/vinifermo">
-  <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true&theme=radical)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo)](https://github.com/anuraghazra/github-readme-stats"/> 
 
 <div>
