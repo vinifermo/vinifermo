@@ -2,11 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/vinifermo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo)](https://github.com/anuraghazra/github-readme-stats"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifermo&layout=compact&langs_count=7&theme=dark"/> 
 
 <div>
-
 </div>
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
