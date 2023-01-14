@@ -1,3 +1,2 @@
-Hi, my name is Vinicius Fermo Filho and i am Passionate about Java. Learning something different everyday
+Brazillian web developer and a continuous learner, currently focused on back-end development with Java.
 
-Agile Development || Java || Spring || Git || PostgreSQL || Rest API ||
