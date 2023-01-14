@@ -1,16 +1,11 @@
 ## Brazillian web developer and a continuous learner, currently focused on back-end development with Java.
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true" />
-</picture>
+<div align="center">
+  <a href="https://github.com/calderanph">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=calderanph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calderanph&layout=compact&langs_count=7&theme=dark"/> 
+
+<div>
 
 </div>
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
