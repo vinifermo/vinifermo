@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true" />
 </picture>
 
-<div>
+
 </div>
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
