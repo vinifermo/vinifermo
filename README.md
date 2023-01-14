@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/vinifermo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinifermo)](https://github.com/anuraghazra/github-readme-stats"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifermo)](https://github.com/anuraghazra/github-readme-stats"/> 
 
 <div>
 
